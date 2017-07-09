@@ -1,4 +1,5 @@
 # Introduction to Data Science with Python
+Edited by Venkat kalvala for class 1
 In this [Houston Data Science][1] meetup we will introduce our members to data science using the Python programming language.
 
 ## Objectives
